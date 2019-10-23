@@ -65,6 +65,7 @@ function draw() {
 
   fill('white');
   textSize(32);
+	textFont('Baloo Bhai');
   text('Move your mouse to choose your mii', width / 2, 200, );
   textSize(20);
   text('Talk to the computer to show your appreciation', width / 2, height - 200, );
